@@ -1,0 +1,24 @@
+.navbar-youtube, .logo {
+    width: auto;
+    max-width: 80px;
+    height: 35px;
+}
+
+.navbar-input, .navbar-submit {
+    margin: 2px;
+}
+.nav-header {
+    display: flex;
+    margin: 0px;
+}
+.video-class {
+    float: center;
+    margin-left: 35%;
+    right:20%;
+}
+.table2 {
+    width: 100%;
+}
+p{
+    font-size: small;
+}
